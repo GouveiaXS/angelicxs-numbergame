@@ -1,4 +1,4 @@
-# angelicxs-quickgamble
+# angelicxs-numbergame
 
 For ESX or QBCORE
 
