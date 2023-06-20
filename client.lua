@@ -288,7 +288,7 @@ function Blip(coords)
     SetBlipAsShortRange(Blip, true)
     SetBlipColour(Blip, Config.BlipColour)
     BeginTextCommandSetBlipName("STRING")
-    AddTextComponentSubstringPlayerName('Number Gambler')
+    AddTextComponentSubstringPlayerName(Config.BlipName)
     EndTextCommandSetBlipName(Blip)
 end
 
